@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "drop-shadow.colorset.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
